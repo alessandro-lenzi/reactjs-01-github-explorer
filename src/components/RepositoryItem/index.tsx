@@ -17,8 +17,6 @@ export function RepositoryItem({ repository }: RepositoryItemProps) {
       >
         Go to repo
       </a>
-
-      <br/>
     </li>
   );
 
